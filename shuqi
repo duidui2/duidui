@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html,body{
+            height:100%;
+        }
+    </style>
+</head>
+<body onclick="go();">
+我不想布展
+</body>
+<script>
+    function go(){
+        alert("我可以不去吗");
+        alert("我真的不想去");
+    }
+</script>
+</html>
